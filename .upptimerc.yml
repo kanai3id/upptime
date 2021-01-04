@@ -39,25 +39,5 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-#skipDescriptionUpdate: true
-#skipTopicsUpdate: true
-#skipHomepageUpdate: true
-
-commitMessages:
-  readmeContent: ":pencil: Update summary in README [skip ci] [upptime]"
-  summaryJson: ":card_file_box: Update status summary [skip ci] [upptime]"
-  statusChange: "$EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms) [skip ci] [upptime]"
-  graphsUpdate: ":bento: Update graphs [skip ci] [upptime]"
-  commitAuthorName: "Upptime Bot"
-  
-workflowSchedule:
-  graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
