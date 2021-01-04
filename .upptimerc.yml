@@ -8,8 +8,8 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Covid19-nagano
-    url: https://covid19-nagano.info
+#  - name: Covid19-nagano
+#    url: https://covid19-nagano.info
 #  - name: Hacker News
 #    url: https://news.ycombinator.com
 #  - name: Broken Site
