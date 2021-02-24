@@ -4,9 +4,9 @@
     "url": "https://covid19-nagano.info",
     "icon": "https://favicons.githubusercontent.com/covid19-nagano.info",
     "slug": "covid19-nagano",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1629,
     "timeMonth": 1503,
     "timeYear": 1548,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-24": 0
+    }
   },
   {
     "name": "Nagano Prefecture",
