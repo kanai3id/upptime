@@ -6,10 +6,8 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Covid19-nagano
     url: https://covid19-nagano.info
-  - name: Nagano Prefecture 
-    url: https://www.pref.nagano.lg.jp
-  - name: Toyokeizai net 
-    url: https://toyokeizai.net/sp/visual/tko/covid19/
+  - name: Covid19-chiba
+    url: https://covid19-chiba.netlify.app
 #  - name: Google
 #    url: https://www.google.com
 #  - name: Wikipedia
