@@ -29,19 +29,19 @@
     "url": "https://covid19-chiba.netlify.app",
     "icon": "https://favicons.githubusercontent.com/covid19-chiba.netlify.app",
     "slug": "covid19-chiba",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 340,
-    "timeDay": 237,
-    "timeWeek": 239,
-    "timeMonth": 233,
-    "timeYear": 340,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 338,
+    "timeDay": 203,
+    "timeWeek": 225,
+    "timeMonth": 229,
+    "timeYear": 338,
     "dailyMinutesDown": {
-      "2021-09-10": 0
+      "2021-09-10": 9
     }
   }
 ]
