@@ -4,7 +4,7 @@
     "url": "https://covid19-nagano.info",
     "icon": "https://favicons.githubusercontent.com/covid19-nagano.info",
     "slug": "covid19-nagano",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2001,
     "timeYear": 2133,
     "dailyMinutesDown": {
+      "2021-11-18": 0,
       "2021-07-30": 20,
       "2021-03-14": 19,
       "2021-03-12": 173,
