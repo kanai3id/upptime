@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.44%",
-    "time": 2095,
-    "timeDay": 1742,
-    "timeWeek": 1695,
-    "timeMonth": 1662,
-    "timeYear": 2095,
+    "time": 2094,
+    "timeDay": 1595,
+    "timeWeek": 1700,
+    "timeMonth": 1648,
+    "timeYear": 2094,
     "dailyMinutesDown": {
       "2021-07-30": 20,
       "2021-03-14": 19,
@@ -31,17 +31,15 @@
     "slug": "covid19-chiba",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 476,
-    "timeWeek": 303,
-    "timeMonth": 213,
-    "timeYear": 277,
-    "dailyMinutesDown": {
-      "2021-12-15": 5
-    }
+    "time": 276,
+    "timeDay": 510,
+    "timeWeek": 293,
+    "timeMonth": 220,
+    "timeYear": 276,
+    "dailyMinutesDown": {}
   }
 ]
