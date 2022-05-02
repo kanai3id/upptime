@@ -4,9 +4,9 @@
     "url": "https://covid19-nagano.info",
     "icon": "https://favicons.githubusercontent.com/covid19-nagano.info",
     "slug": "covid19-nagano",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.79%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.79%",
@@ -16,6 +16,7 @@
     "timeMonth": 1487,
     "timeYear": 1812,
     "dailyMinutesDown": {
+      "2022-05-02": 0,
       "2022-04-30": 122,
       "2022-04-24": 21,
       "2022-04-14": 40,
@@ -37,9 +38,9 @@
     "url": "https://covid19-chiba.netlify.app",
     "icon": "https://favicons.githubusercontent.com/covid19-chiba.netlify.app",
     "slug": "covid19-chiba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -49,6 +50,7 @@
     "timeMonth": 172,
     "timeYear": 258,
     "dailyMinutesDown": {
+      "2022-05-02": 0,
       "2022-04-19": 17,
       "2022-01-29": 19
     }
