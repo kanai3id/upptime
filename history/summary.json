@@ -4,7 +4,7 @@
     "url": "https://covid19-nagano.info",
     "icon": "https://icons.duckduckgo.com/ip3/covid19-nagano.info.ico",
     "slug": "covid19-nagano",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1646,
     "timeYear": 1539,
     "dailyMinutesDown": {
+      "2023-03-03": 0,
       "2023-01-25": 15,
       "2023-01-16": 18,
       "2022-12-17": 17,
