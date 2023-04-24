@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/covid19-nagano.info.ico",
     "slug": "covid19-nagano",
     "status": "down",
-    "uptime": "97.36%",
+    "uptime": "97.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "41.11%",
-    "uptimeYear": "94.65%",
+    "uptimeMonth": "37.84%",
+    "uptimeYear": "94.38%",
     "time": 1537,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1496,
-    "timeYear": 1556,
+    "timeMonth": 1488,
+    "timeYear": 1557,
     "dailyMinutesDown": {
-      "2023-04-23": 67,
+      "2023-04-24": 62,
+      "2023-04-23": 1440,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
       "2023-04-20": 1440,
@@ -54,8 +55,7 @@
       "2022-05-31": 34,
       "2022-05-04": 18,
       "2022-05-02": 36,
-      "2022-04-30": 122,
-      "2022-04-24": 21
+      "2022-04-30": 122
     }
   }
 ]
