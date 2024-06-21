@@ -6,17 +6,16 @@
     "slug": "covid19-nagano",
     "status": "up",
     "uptime": "93.07%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "98.07%",
-    "time": 902,
-    "timeDay": 569,
-    "timeWeek": 625,
-    "timeMonth": 728,
-    "timeYear": 825,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "98.22%",
+    "time": 900,
+    "timeDay": 515,
+    "timeWeek": 595,
+    "timeMonth": 720,
+    "timeYear": 824,
     "dailyMinutesDown": {
-      "2024-06-20": 7,
       "2024-06-08": 18,
       "2024-02-22": 112,
       "2023-11-27": 16,
@@ -27,8 +26,7 @@
       "2023-06-26": 1440,
       "2023-06-25": 1440,
       "2023-06-24": 1440,
-      "2023-06-23": 1440,
-      "2023-06-22": 1440
+      "2023-06-23": 1440
     }
   }
 ]
