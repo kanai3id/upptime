@@ -1,7 +1,7 @@
 url: https://covid19-nagano.info
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-28T18:20:51.648Z
+status: up
+code: 200
+responseTime: 458
+lastUpdated: 2025-04-28T18:42:46.109Z
 startTime: 2021-01-04T09:02:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
